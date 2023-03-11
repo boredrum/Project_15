@@ -391,10 +391,14 @@ nav div a{
     grid-row-start: span 3;
 }
 .main__attention{
-    margin-top: 459px;
     max-width: 600px;
     display: flex;
-    margin: 0 auto;
+    justify-content: center;
+    margin: 30px auto 0;
+}
+.main__attention img{
+    height: 103px;
+    width: 105px;
 }
 .main__attention p{
     margin-top: 50px;
